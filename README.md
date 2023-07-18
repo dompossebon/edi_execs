@@ -3,7 +3,7 @@ area devs Tex
 
 
 # Utilize o comando abaixo para rodar o Arquivo e suas funcionalidades
-- ./skemas
+- ./ferramental_edi
 
 # Utilize o comando abaixo para entender as possibilidades
-- ./skemas --h
+- ./ferramental_edi --h
